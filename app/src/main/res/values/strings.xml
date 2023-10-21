@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Language Quiz</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="topic_1">ENG-GER</string>
+    <string name="topic_2">JPN-GER</string>
+    <string name="topic_3">JPN-ENG</string>
+    <string name="topic_4">GER-ENG</string>
+    <string name="topic_5">GER-JPN</string>
+    <string name="topic_6">ENG-JPN</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_create">Create</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_nextTry">Next Try</string>
+    <string name="btn_done">Done</string>
+    <string name="hint_user">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_answer">Answer</string>
+    <string name="hint_password_old">Old password</string>
+    <string name="hint_password_new">New password</string>
+    <string name="des_btn_back">Back button</string>
+    <string name="des_btn_setting">Setting button</string>
+
+</resources>
